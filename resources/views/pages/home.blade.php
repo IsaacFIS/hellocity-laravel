@@ -1,7 +1,6 @@
 @extends('base')
-    @section('title')
-        Hello City
-    @endsection
+    @section('title','Hello City')
+    
     @section('content')
         <h1>Hello from Cotonou!</h1>
 
